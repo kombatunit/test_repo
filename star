@@ -1,0 +1,4 @@
+Star
+str
+sr
+s
